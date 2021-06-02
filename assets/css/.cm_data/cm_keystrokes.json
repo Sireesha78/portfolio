@@ -1,0 +1,88 @@
+{
+    "style.css": [
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 11:18:20",
+            "keyStrokeInfo": "",
+            "position": "410,27"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 11:18:20",
+            "keyStrokeInfo": "m",
+            "position": "410,27"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 11:18:20",
+            "keyStrokeInfo": "y",
+            "position": "410,28"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 11:18:22",
+            "keyStrokeInfo": "my.jpg",
+            "position": "410,27"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 12:05:05",
+            "keyStrokeInfo": "#9934b7",
+            "position": "451,15"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 12:05:07",
+            "keyStrokeInfo": "#cc69eb",
+            "position": "451,15"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 12:05:56",
+            "keyStrokeInfo": "#eb697f",
+            "position": "451,15"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 12:06:10",
+            "keyStrokeInfo": "#f33d5c",
+            "position": "451,15"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 12:06:25",
+            "keyStrokeInfo": "#f33d46",
+            "position": "451,15"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 12:06:28",
+            "keyStrokeInfo": "#f0444c",
+            "position": "451,15"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 12:06:42",
+            "keyStrokeInfo": "#f0444c",
+            "position": "455,15"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 24 2021 12:06:59",
+            "keyStrokeInfo": "#f1adb1",
+            "position": "455,15"
+        }
+    ]
+}
